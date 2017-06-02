@@ -27,5 +27,5 @@ def commacode(listo):
 			oxford += "and " + list_item
 	return(oxford)
 
-list1 = ['Harold', 'John', 'Shaw', 'Root', 'Fusco', 'Carter', 'Bear']
+list1 = ['Harold', 'John', 'Root', 'Shaw', 'Fusco', 'Carter', 'Bear']
 print(commacode(list1))

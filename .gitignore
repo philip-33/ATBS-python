@@ -1,11 +1,9 @@
 # Virtual Environment files
-env/
-bin/
-local/
-lib/
-include/
+Include/
+Lib/
+Scripts/
+tcl/
 pip-selfcheck.json
-
 
 # Windows image file caches
 Thumbs.db
